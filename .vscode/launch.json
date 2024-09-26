@@ -1,0 +1,228 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "type": "java",
+        "name": "ColorPointEx",
+        "request": "launch",
+        "mainClass": "ColorPointEx",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "StaticMember",
+        "request": "launch",
+        "mainClass": "StaticMember",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "CalcEx",
+        "request": "launch",
+        "mainClass": "CalcEx",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "ArrayPassingEx",
+        "request": "launch",
+        "mainClass": "ArrayPassingEx",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "BookArray",
+        "request": "launch",
+        "mainClass": "BookArray",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "CircleArray",
+        "request": "launch",
+        "mainClass": "CircleArray",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "RectApp",
+        "request": "launch",
+        "mainClass": "RectApp",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "Circle",
+        "request": "launch",
+        "mainClass": "Circle",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "NumException",
+        "request": "launch",
+        "mainClass": "NumException",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "InputException",
+        "request": "launch",
+        "mainClass": "InputException",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "ArrayException",
+        "request": "launch",
+        "mainClass": "ArrayException",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "DevideByZeroHandling",
+        "request": "launch",
+        "mainClass": "DevideByZeroHandling",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "DivideByZero",
+        "request": "launch",
+        "mainClass": "DivideByZero",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "SkewedArray",
+        "request": "launch",
+        "mainClass": "SkewedArray",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "foreachEx",
+        "request": "launch",
+        "mainClass": "foreachEx",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "ArrayLength",
+        "request": "launch",
+        "mainClass": "ArrayLength",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "BreakSample",
+        "request": "launch",
+        "mainClass": "BreakSample",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "ContinueExample",
+        "request": "launch",
+        "mainClass": "ContinueExample",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "NestedLoop",
+        "request": "launch",
+        "mainClass": "NestedLoop",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "WhileSample",
+        "request": "launch",
+        "mainClass": "WhileSample",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "ForSample",
+        "request": "launch",
+        "mainClass": "ForSample",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "CoffeePrice",
+        "request": "launch",
+        "mainClass": "CoffeePrice",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "NestedIf",
+        "request": "launch",
+        "mainClass": "NestedIf",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "Granding",
+        "request": "launch",
+        "mainClass": "Granding",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "MultipleOfThree",
+        "request": "launch",
+        "mainClass": "MultipleOfThree",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "SuccessOfFail",
+        "request": "launch",
+        "mainClass": "SuccessOfFail",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "ScannerEx",
+        "request": "launch",
+        "mainClass": "ScannerEx",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
+        "name": "Main",
+        "request": "launch",
+        "mainClass": "Main",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "name": "(gdb) Launch",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${fileDirname}/${fileBasenameNoExtension}.exe",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${workspaceFolder}",
+        "environment": [],
+        "externalConsole": true,
+        "MIMode": "gdb",
+        "setupCommands": [
+          {
+            "description": "Enable pretty-printing for gdb",
+            "text": "-enable-pretty-printing",
+            "ignoreFailures": true
+          }
+        ],
+        "preLaunchTask": "C/C++: gcc.exe build active file",
+        "miDebuggerPath": "C:/msys64/ucrt64/bin/gdb.exe",
+        "logging": {
+          "trace": true,
+          "traceResponse": true,
+          "engineLogging": true
+        }
+      }
+    ]
+  }
+  
