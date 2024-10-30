@@ -3,6 +3,13 @@
     "configurations": [
       {
         "type": "java",
+        "name": "InheritanceEx",
+        "request": "launch",
+        "mainClass": "InheritanceEx",
+        "projectName": "create_bc97b9b4"
+      },
+      {
+        "type": "java",
         "name": "ColorPointEx",
         "request": "launch",
         "mainClass": "ColorPointEx",

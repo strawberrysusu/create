@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>시멘틱 문서 구조화</title>
+    <style>
+        *{margin:0 ;padding: 0;}
+        h1{color:#00ffff;}
+        li{color: red;}
+        #mu{color: aqua;}
+        .pink{color: pink;}
+    </style>
+</head>
+<body>
+    <!--헤더-->
+    <header>
+        <h1>HTML5기본</h1>
+    </header>
+    <!--메인메뉴-->
+    <nav>
+        <ul>
+            <li class="pink">메뉴1</li>  
+            <li id="mu">메뉴2</li>  
+            <li class="pink">메뉴3</li>
+        </ul>
+    </nav>
+    <!--컨텐츠-->
+    <section>
+        <article>
+            <h2>소제목1</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nobis, perspiciatis?</p>
+        </article> <!-- 닫는 태그 수정 -->
+        
+        <article>
+            <h2 class="pink">소제목2</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nobis, perspiciatis?</p>
+        </article>
+    </section>
+    <!--푸터-->
+    <footer>
+        <p>서울특별시 강서구 내발산동111-111</p>
+        <p class="pink">02-1564-1891</p> <!-- 소문자 p로 수정 -->
+    </footer>
+</body>
+</html>
